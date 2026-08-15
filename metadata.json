@@ -1,0 +1,6 @@
+{
+  "name": "Barbershop Booking",
+  "description": "Premium modern barbershop website with real-time booking and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
